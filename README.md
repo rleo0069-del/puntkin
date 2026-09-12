@@ -2,14 +2,22 @@
 
 Plant the witch boot. Punt the skull. Chase candy corn through the graveyard night.
 
-## Play it live
+**Play:** [rleo0069-del.github.io/puntkin](https://rleo0069-del.github.io/puntkin/)
 
-The files are already in this repo. Turn on GitHub Pages (one click):
+Hold to wind up, release to punt. Bounce off pumpkins, ride bat swarms, thread field goals. Spikes end the run.
 
-1. Open **[Settings → Pages](https://github.com/rleo0069-del/puntkin/settings/pages)**
-2. Under **Build and deployment**
-   - Source: **GitHub Actions**  *(or Deploy from a branch → `main` / `/ (root)`)*
-3. Save, wait about a minute
-4. Play: https://rleo0069-del.github.io/puntkin/
+## Menu
 
-You can also open `index.html` locally. Keep the `assets` and `sprites` folders next to it.
+![Title screen — Keep punting](docs/menu.png)
+
+## Kickoff
+
+![Ready to punt](docs/ready.png)
+
+## In flight
+
+![Skull in the night sky](docs/flight.png)
+
+## Files
+
+Open `index.html` locally if you want. Keep the `assets` and `sprites` folders next to it.
