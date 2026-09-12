@@ -2,8 +2,14 @@
 
 Plant the witch boot. Punt the skull. Chase candy corn through the graveyard night.
 
-Open **index.html** in a browser, or enable GitHub Pages:
+## Play it live
 
-**Settings → Pages → Deploy from a branch → `main` / `/ (root)`**
+The files are already in this repo. Turn on GitHub Pages (one click):
 
-Then play at: https://rleo0069-del.github.io/puntkin/
+1. Open **[Settings → Pages](https://github.com/rleo0069-del/puntkin/settings/pages)**
+2. Under **Build and deployment**
+   - Source: **GitHub Actions**  *(or Deploy from a branch → `main` / `/ (root)`)*
+3. Save, wait about a minute
+4. Play: https://rleo0069-del.github.io/puntkin/
+
+You can also open `index.html` locally. Keep the `assets` and `sprites` folders next to it.
