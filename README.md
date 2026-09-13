@@ -20,11 +20,13 @@ Hold to wind up, release to punt. Bounce off pumpkins, ride bat swarms, thread f
 
 ![PUNTKIN banner](docs/banner.png)
 
-## This game is free
+## This game is free to play
 
-PUNTKIN is **public domain** ([CC0 1.0](LICENSE)).
+PUNTKIN is free to play. It is **not** public domain.
 
-You may play it, copy it, remix it, host it, and share it — including commercially — with no permission and no credit required. No copyright is claimed.
+Copyright © 2026 Rose Leo. All rights reserved. See [LICENSE](LICENSE).
+
+Play the official game. Do not copy, remix, rehost, or sell the code or art without permission.
 
 ## Menu
 
