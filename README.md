@@ -10,6 +10,7 @@ Hosted by Rose Leo ([@Rose_M_Leo](https://x.com/Rose_M_Leo)). Highest verified d
 - Official Rules: https://rleo0069-del.github.io/puntkin/contest.html
 - Enter on X by replying to the official @Rose_M_Leo contest post with a full-run recording.
 - Ends 11:59:59 p.m. Central Time, November 1, 2026.
+- There is no maximum score. Distance is time in the air. Spikes end the run.
 - No purchase necessary. Not sponsored by X.
 
 ![PUNTKIN cover — a witch boot punts a flaming skull](docs/cover.png)
